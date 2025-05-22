@@ -1,4 +1,4 @@
-# Laptop Scraper
+# PC Price Tracker
 
 Scrapes laptops from comparez-malin using additional model specific filters (that the website doesn't offer), saves to csv file, and sends a daily phone notification.
 
